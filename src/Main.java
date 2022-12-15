@@ -64,7 +64,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		Car car = new Car("Toyota", "yaris", 5);
+		Car car = new Car("Kia", "punto", 3);
 
 		car.printData();
 		System.out.println("-------------------------");
